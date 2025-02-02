@@ -13,7 +13,7 @@ You can install the dependencies with:
 
 ```bash
 pip install torch torchaudio matplotlib pandas scikit-learn
-
+```
 Reference: Salamon, J., Jacoby, C., & Bello, J. P. (2014). A dataset for urban sound research. *Proceedings of the 22nd ACM International Conference on Multimedia*, 1041–1044.
 
 - **[PyTorch](https://pytorch.org/docs/stable/index.html)**: A powerful deep learning framework.
